@@ -1,5 +1,5 @@
 # Team Labyrinth-4 Refactoring Documentation.
-=============================================
+- - - - - - - - - - - - - - - - - - - - - -         
 
 Team Labyrinth-4 members:
   - Emil Tishinov
